@@ -15,3 +15,5 @@ for (const ingredient of ingredients) {
   nawTag.textContent = ingredient;
   ingredientsEl.append(nawTag);
 }
+
+console.log(ingredientsEl);
